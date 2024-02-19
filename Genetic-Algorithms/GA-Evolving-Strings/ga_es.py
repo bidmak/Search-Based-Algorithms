@@ -111,6 +111,7 @@ while best_fitness < LEN_TAR:
 
         if best_fitness == LEN_TAR:
             print(f"\n--------------- GA Solution Results ---------------\n")
+
             print(
                 f"Solution: {best_sol} \nFitness score: {best_fitness}/{LEN_TAR} \nIteration: {iteration}"
             )
