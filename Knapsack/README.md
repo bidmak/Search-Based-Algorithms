@@ -18,12 +18,11 @@ Suppose you are going to spend a month in the wilderness. You're taking a backpa
 
 ## Results
 
--------------- KNAPSACK --------------
-Iterations: 1, best solution points: 50
-Iterations: 1, best solution points: 92
-Iterations: 1, best solution points: 97
-Iterations: 2, best solution points: 102
+**KNAPSACK**
 
----
+- Iterations: 1, best solution points: 50
+- Iterations: 1, best solution points: 92
+- Iterations: 1, best solution points: 97
+- Iterations: 2, best solution points: 102
 
 Max items: Pocketknife, Beans, Water, Sleeping Bag, Rope, Compass.
