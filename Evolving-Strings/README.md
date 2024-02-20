@@ -6,7 +6,6 @@ This project aims to implement GA, Hill climbing, and Random search algorithm to
 
 After 51 iterations, the GA successfully evolved the target string:
 
-- **Solution**: "Hi. My name is Samuel Makanjuola, and this is a simple demonstration of Genetic Algorithm. Thanks!!!!"
 - **Fitness Score**: 100/100
 - **Time Taken**: 60.89 seconds
 
@@ -14,6 +13,12 @@ After 51 iterations, the GA successfully evolved the target string:
 
 After 745 iterations, Hill climber successfully evolved the target string:
 
-- **Solution**: "Hi. My name is Samuel Makanjuola, and this is a simple demonstration of Genetic Algorithm. Thanks!!!!"
 - **Fitness Score**: 100/100
 - **Time Taken**: 16.17 seconds
+
+## Random Search Results
+
+Random Search failed to evolve the target string:
+
+- **Highest Fitness Score**: 9/100
+- **Termination set time**: 2 minutes
