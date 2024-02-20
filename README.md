@@ -1,5 +1,10 @@
-# Search Based Software Engineering
+# Search Based Software Engineering Projects
 
-Search Based Software Engineering (SBSE) integrates Search Based Optimization techniques into software engineering tasks. It transforms software challenges into search problems, seeking optimal or near-optimal solutions within defined solution spaces through iterative searches guided by a fitness function.
+The aim of this project is to apply some AI-based approaches, such as search based algorithms and machine learning, in solving some challenging problems associated with software engineering. The primary search-based AI focused upon is Genetic Algorithm. Hill climbing and Random search will also be worked on.
 
-## Evolving Strings Performance Evaluation
+## Projects
+
+1. [Evolving Strings](https://github.com/bidmak/Search-Based-Algorithms/tree/main/Evolving-Strings)
+2. [Knapsack](https://github.com/bidmak/Search-Based-Algorithms/tree/main/Knapsack)
+3. [Test Case Prioritisation](https://github.com/bidmak/Search-Based-Algorithms/tree/main/TCP)
+4. [Structural Test Data Generation](https://github.com/bidmak/Search-Based-Algorithms/tree/main/STDG)
