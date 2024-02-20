@@ -4,7 +4,7 @@ The aim of this project is to apply some AI-based approaches, such as search bas
 
 ## Projects
 
-1. [Evolving Strings](https://github.com/bidmak/Search-Based-Algorithms/tree/main/Evolving-Strings)
-2. [Knapsack](https://github.com/bidmak/Search-Based-Algorithms/tree/main/Knapsack)
-3. [Test Case Prioritisation](https://github.com/bidmak/Search-Based-Algorithms/tree/main/TCP)
-4. [Structural Test Data Generation](https://github.com/bidmak/Search-Based-Algorithms/tree/main/STDG)
+1. [Evolving Strings](./Evolving-Strings)
+2. [Knapsack](./Knapsack)
+3. [Test Case Prioritisation](./TCP)
+4. [Structural Test Data Generation](./STDG)
