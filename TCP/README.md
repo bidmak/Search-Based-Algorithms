@@ -17,8 +17,7 @@ Both genetic algorithm and hill climbing successfully produced improved solution
 
 ![GA Result graph](./img/img1.png) ![Hill-Climbing Result graph](./img/img2.png)
 
-Initial fitness of newsmallfaultmatrix dataset: 0.8969
-Initial fitness of newbigfaultmatrix dataset: 0.8908
+The initial fitness of newsmallfaultmatrix dataset is 0.8969, and newbigfaultmatrix dataset is 0.8908
 
 **GA:** The maximum optimum fitness of the newbigfaultmatrix dataset: 0.9663
 **Hill Climber:** The maximum optimum fitness of the newbigfaultmatrix dataset: 0.9914
