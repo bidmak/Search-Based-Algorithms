@@ -7,7 +7,7 @@ The aim of this project is to apply some AI-based approaches, such as search bas
 1. [Evolving Strings](./Evolving-Strings)
 2. [Knapsack](./Knapsack)
 3. [MaxOne](./MaxOne)
-4. [Test Case Prioritisation](./TCP)
+4. [Test Case Prioritization](./TCP)
 5. [Structural Test Data Generation](./STDG)
 
 ## Acknowledgments

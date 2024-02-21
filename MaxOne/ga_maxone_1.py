@@ -55,43 +55,43 @@ best_value = None
 if __name__ == "__main__":
     target = fitness(31)
 
-# Initiallizing population
-pop = [generate() for _ in range(npop)]
-pop_value = [value(p) for p in pop]
-pop_fitness = [fitness(p) for p in pop_value]
+    # Initiallizing population
+    pop = [generate() for _ in range(npop)]
+    pop_value = [value(p) for p in pop]
+    pop_fitness = [fitness(p) for p in pop_value]
 
-# main loop
-while best_fitness < target:
+    # main loop
+    while best_fitness < target:
 
-    for i in range(npop):
-        if pop_fitness[i] > best_fitness:
-            best_fitness = pop_fitness[i]
-            best_solution = pop[i]
-            best_value = pop_value[i]
-            print(
-                f"generation: {generation}, solution: {best_solution}, value: {best_value}, fitness: {best_fitness}"
-            )
-    if best_fitness == target:
-        break
+        for i in range(npop):
+            if pop_fitness[i] > best_fitness:
+                best_fitness = pop_fitness[i]
+                best_solution = pop[i]
+                best_value = pop_value[i]
+                print(
+                    f"generation: {generation}, solution: {best_solution}, value: {best_value}, fitness: {best_fitness}"
+                )
+        if best_fitness == target:
+            break
 
-    popc = []
-    popc_value = []
-    popc_fitness = []
+        popc = []
+        popc_value = []
+        popc_fitness = []
 
-    for j in range(npop // 2):
-        p1, p2 = selection(pop)
-        child1, child2 = cross(p1, p2)
-        child1 = mutate(child1)
+        for j in range(npop // 2):
+            p1, p2 = selection(pop)
+            child1, child2 = cross(p1, p2)
+            child1 = mutate(child1)
 
-        popc.append(child1)
-        popc_value.append(value(child1))
-        popc_fitness.append(fitness(value(child1)))
+            popc.append(child1)
+            popc_value.append(value(child1))
+            popc_fitness.append(fitness(value(child1)))
 
-        popc.append(child2)
-        popc_value.append(value(child2))
-        popc_fitness.append(fitness(value(child2)))
+            popc.append(child2)
+            popc_value.append(value(child2))
+            popc_fitness.append(fitness(value(child2)))
 
-    pop = popc
-    pop_value = popc_value
-    pop_fitness = popc_fitness
-    generation += 1
+        pop = popc
+        pop_value = popc_value
+        pop_fitness = popc_fitness
+        generation += 1

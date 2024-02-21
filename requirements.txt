@@ -1,3 +1,5 @@
 random
 ypstruct
 numpy
+matplotlib
+statistics

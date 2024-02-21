@@ -1,6 +1,6 @@
 # Knapsack
 
-This project aims to implement Genetic Algorithm on a Knapsack task.
+This project aims to implement Genetic Algorithm in solving a Knapsack problem.
 
 ## Task
 
