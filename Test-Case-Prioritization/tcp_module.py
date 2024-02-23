@@ -248,7 +248,6 @@ def run_ga(
 ) -> tuple[list, list, list]:
     """
     Runs the Genetic Algorithm.
-
     Provide an endpoint if using scramble or inversion operation for mutation.
     """
 

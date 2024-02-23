@@ -62,6 +62,7 @@ with open(file_path, "w") as file:
 """
 
 """
+
 # Boxplot to show the mean and standard deviation of the fitness
 mean = statistics.mean(fitness)
 std_dev = statistics.stdev(fitness)
