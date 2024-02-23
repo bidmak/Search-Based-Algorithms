@@ -1,0 +1,8 @@
+Runs: 7, Target: branch 1T, Test Data: [553818, 553818], Fitness: 0
+Runs: 1, Target: branch 1F, Test Data: [620975, 85856], Fitness: 0
+Runs: 1, Target: branch 2T, Test Data: [59036, 410420], Fitness: 0
+Runs: 1, Target: branch 2F, Test Data: [982065, 501409], Fitness: 0
+Runs: 1, Target: branch 3T, Test Data: [107019, 106187], Fitness: 0
+Runs: 1, Target: branch 3F, Test Data: [124009, 642406], Fitness: 0
+Runs: 7, Target: branch 4T, Test Data: [256292, 9], Fitness: 0.09782659673439364
+Runs: 1, Target: branch 4F, Test Data: [915633, 999274], Fitness: 0
