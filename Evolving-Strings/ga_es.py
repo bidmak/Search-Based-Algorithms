@@ -141,4 +141,5 @@ if __name__ == "__main__":
 
     end_time = time.time()
     print(f"Time taken: {end_time - start_time} seconds")
+
     print(f"\n--------------- End of GA Operation ---------------\n")

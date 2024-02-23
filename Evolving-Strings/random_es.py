@@ -9,6 +9,7 @@ print("----- Random Search - Evolving Strings -----")
 start_time = time.time()
 
 while best_score < LEN_TAR:
+
     best = generate_solution(LEN_TAR)
     bestscore = fitness(target=TARGET, solution=best)
     if bestscore > best_score:

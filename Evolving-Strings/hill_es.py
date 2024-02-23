@@ -42,4 +42,5 @@ while best_score < LEN_TAR:
 
 end_time = time.time()
 print(f"Time taken: {end_time - start_time} seconds")
+
 print(f"\n------------ End of Hill Climbing Operation ------------\n")
