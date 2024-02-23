@@ -37,7 +37,7 @@ for it, fit in zip(iterations, fitness):
     print(f"run: {run}, iteration: {it}, fitness: {fit}")
     run += 1
 
-print(f"\n----------------- End TCP Operation -----------------\n")
+print(f"\n----------------- End of TCP Operation -----------------\n")
 
 """
 # Saving the test order for further analysis.

@@ -23,4 +23,4 @@ Dr. Roper's expertise and dedication significantly enriched my learning experien
 For further insights into Search Based Software Engineering (SBSE), you may find the following paper informative:
 
 - [Harman, M., McMinn, P., de Souza, J.T., Yoo, S. (2012). Search Based Software Engineering: Techniques, Taxonomy, Tutorial.](https://coinse.github.io/publications/pdfs/Harman2012lr.pdf)
-- [Alshahwan, N. et al. (2018). Deploying Search Based Software Engineering with Sapienz at Facebook](https://coinse.github.io/publications/pdfs/Harman2012lr.pdf)
+- [Alshahwan, N. et al. (2018). Deploying Search Based Software Engineering with Sapienz at Facebook](https://link.springer.com/chapter/10.1007/978-3-319-99241-9_1)
