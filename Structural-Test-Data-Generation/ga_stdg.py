@@ -208,7 +208,7 @@ if __name__ == "__main__":
 
     print(f"----------------- End of STDG Program -----------------\n")
 
-    """    
+    """
     # Results from experiment saved to a file for further analysis.
     file_path = "results/ga_stdg_output.txt"
     with open(file_path, "w") as file:
